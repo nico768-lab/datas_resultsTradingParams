@@ -1,9 +1,11 @@
 Action,Best profit,TP optimal,SL optimal,levier optimal,dureeMax optimal,montantInvestit optimal,perfNormalisee optimal,NB trades,NB TP reached,NB SL reached,NB Duree max reached,TP values,SL values,levier values,Duree max values,montantInvestit values,perfNormalisee values,Company
 2025-06-22-17-25-36,5.499,50,13,5,1,1000,0,3,2,0,1,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_allianz
+2025-06-24-19-55-49,-0.104,100,3,1,1,1000,0,2,2,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_alphabetInc
 2025-06-22-17-25-36,0.977,100,2,1,4,1000,0,7,5,1,1,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_altarea
 2025-06-22-17-25-36,0.557,100,4,5,1,1000,10,6,3,1,2,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_alten
 2025-06-22-17-25-36,-0.196,20,3,1,4,1000,30,63,54,5,4,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_altria
 2025-06-22-17-25-36,-0.287,20,7,1,2,1000,20,4,4,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_antinInfraPartners
+2025-06-24-19-55-49,-0.155,20,4,1,3,1000,20,24,24,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_appleInc
 2025-06-22-17-25-36,2.273,100,1,5,1,1000,0,4,1,2,1,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_axa
 2025-06-22-17-25-36,8.241,90,13,5,1,1000,0,5,1,0,4,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_basf
 2025-06-22-17-25-36,1.664,50,7,2,1,1000,0,4,3,0,1,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_BBbiotechAG
@@ -12,22 +14,28 @@ Action,Best profit,TP optimal,SL optimal,levier optimal,dureeMax optimal,montant
 2025-06-22-17-25-36,-1.028,100,1,1,1,1000,0,4,2,0,2,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_boiron
 2025-06-22-17-25-36,2.988,30,7,5,1,1000,0,5,4,1,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_bouygues
 2025-06-22-17-25-36,0.094,50,4,1,1,1000,0,24,13,0,11,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_britishAmericanTobacco
+2025-06-24-19-55-49,0.155,100,6,1,2,1000,50,30,28,0,2,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_broadcomInc
 2025-06-22-17-25-36,0.112,10,5,1,3,1000,0,9,9,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_carrefour
 2025-06-22-17-25-36,-0.205,90,6,1,1,1000,30,53,26,0,27,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_chevron
 2025-06-22-17-25-36,1.18,20,2,1,4,1000,0,1,1,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_creditAgricole
 2025-06-22-17-25-36,-0.149,10,3,1,2,1000,0,5,4,0,1,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_deutscheTelekom
 2025-06-22-17-25-36,0.871,90,4,1,4,1000,0,4,3,0,1,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_edenred
+2025-06-24-19-55-49,0.089,90,6,1,4,1000,0,43,37,0,6,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_eliLillyAndCompany
 2025-06-22-17-25-36,2.703,80,12,5,1,1000,0,12,4,0,8,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_engie
 2025-06-22-17-25-36,3.535,60,1,5,1,1000,0,4,0,0,4,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_fdjUnited
 2025-06-22-17-25-36,-0.067,30,5,1,4,1000,0,16,15,0,1,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_ford
 2025-06-22-17-25-36,-0.173,30,2,1,4,1000,0,28,22,4,2,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_hsbc
 2025-06-22-17-25-36,1.448,80,1,1,4,1000,0,2,0,0,2,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_immobiliereDassault
+2025-06-24-19-55-49,0.265,100,11,2,1,1000,10,38,28,0,10,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_jpMorganChaseCo
 2025-06-22-17-25-36,0.019,30,8,1,1,1000,0,13,9,0,4,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_legalAndGeneral
 2025-06-22-17-25-36,0.34,60,7,1,4,1000,10,25,22,0,3,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_lyondellbasellIndustries
 2025-06-22-17-25-36,0.196,20,6,1,3,1000,10,5,4,0,1,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_mAndG
 2025-06-22-17-25-36,1.005,60,2,1,3,1000,0,4,4,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_manitouBF
 2025-06-22-17-25-36,6.391,20,1,5,1,1000,0,1,1,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_mercedesBenz
+2025-06-24-19-55-49,-0.117,100,2,1,1,1000,0,2,2,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_metaPlatformsInc
 2025-06-22-17-25-36,0.985,100,2,1,4,1000,0,7,3,1,3,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_michelin
+2025-06-24-19-55-49,-0.051,100,7,1,4,1000,60,53,45,0,8,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_microsoftCorporation
+2025-06-24-19-55-49,-0.212,100,3,1,1,1000,0,3,3,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_nvidiaCorporation
 2025-06-22-17-25-36,0.106,100,6,1,4,1000,0,37,27,0,10,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_oneok
 2025-06-22-17-25-36,1.105,70,6,5,1,1000,10,20,4,2,14,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_orange
 2025-06-22-17-25-36,0.821,80,3,1,3,1000,20,12,6,0,6,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_perrierIndustrie
@@ -40,4 +48,6 @@ Action,Best profit,TP optimal,SL optimal,levier optimal,dureeMax optimal,montant
 2025-06-22-17-25-36,0.068,20,4,1,3,1000,0,25,24,0,1,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_totalEnergies
 2025-06-22-17-25-36,-0.223,0,4,1,1,1000,40,71,71,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_verizon
 2025-06-22-17-25-36,1.815,90,4,1,4,1000,0,8,4,0,4,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_viel&Cie
+2025-06-24-19-55-49,-0.088,100,4,1,1,1000,0,34,32,0,2,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_visaInc
 2025-06-22-17-25-36,4.173,100,7,5,1,1000,0,2,2,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_volkswagen
+2025-06-24-19-55-49,-0.14,100,5,1,4,1000,80,60,51,0,9,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",out_allDividend_walmartInc
