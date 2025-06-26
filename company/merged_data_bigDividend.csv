@@ -1,16 +1,21 @@
 Company,Best profit,TP optimal,SL optimal,levier optimal,dureeMax optimal,montantInvestit optimal,perfNormalisee optimal,NB trades,NB TP reached,NB SL reached,NB Duree max reached,TP values,SL values,levier values,Duree max values,montantInvestit values,perfNormalisee values,Date
 keurigDrPepperInc,78.819,10,1.0,5.0,3.0,1000.0,10.0,1.0,0.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 tMobileUsInc,33.773,40,8.0,5.0,2.0,1000.0,0.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
+expediaGroupInc,18.671,20,2.0,5.0,3.0,1000.0,0.0,1.0,0.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
 lasVegasSandsCorp,16.116,60,2.0,5.0,1.0,1000.0,10.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 truistFinancialCorporation,12.581,100,2.0,5.0,1.0,1000.0,0.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
+verisignInc,11.81,50,9.0,5.0,1.0,1000.0,0.0,2.0,1.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
 sPGlobalInc,10.729,70,1.0,5.0,1.0,1000.0,30.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 wRBerkleyCorporation,10.499,100,1.0,5.0,1.0,1000.0,10.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
+principalFinancialGroupInc,10.132,100,3.0,5.0,1.0,1000.0,20.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
+equityResidential,9.383,20,5.0,5.0,1.0,1000.0,10.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
 johnsonControlsInternational,9.08,30,5.0,5.0,1.0,1000.0,10.0,2.0,1.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 basf,8.241,90,13.0,5.0,1.0,1000.0,0.0,5.0,1.0,0.0,4.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 monolithicPowerSystemsInc,7.902,40,5.0,5.0,1.0,1000.0,0.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 blackstoneInc,7.898,70,5.0,5.0,1.0,1000.0,10.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 fidelityNationalInformationS,7.874,10,4.0,1.0,4.0,1000.0,0.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 stellantis,7.43,70,8.0,1.0,4.0,1000.0,20.0,2.0,2.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
+udrInc,7.127,100,10.0,2.0,3.0,1000.0,0.0,2.0,2.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
 volkswagen,6.837,40,2.0,5.0,1.0,1000.0,10.0,2.0,1.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 vistraCorp,6.62,10,1.0,5.0,1.0,1000.0,10.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 mercedesBenz,6.391,20,1.0,5.0,1.0,1000.0,0.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
@@ -18,8 +23,11 @@ equinixInc,6.157,40,6.0,5.0,1.0,1000.0,10.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)",
 agilentTechnologiesInc,6.005,30,6.0,5.0,1.0,1000.0,20.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 societeGenerale,5.916,30,5.0,5.0,1.0,1000.0,10.0,2.0,1.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 sanofi,5.905,100,6.0,5.0,1.0,1000.0,0.0,4.0,0.0,0.0,4.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
+dominoSPizzaInc,5.769,10,2.0,5.0,1.0,1000.0,10.0,2.0,0.0,1.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
 allianz,5.499,50,13.0,5.0,1.0,1000.0,0.0,3.0,2.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
+leidosHoldingsInc,5.402,20,2.0,1.0,4.0,1000.0,10.0,1.0,0.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
 avalonbayCommunitiesInc,5.078,30,9.0,5.0,1.0,1000.0,10.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
+genDigitalInc,5.068,30,4.0,1.0,4.0,1000.0,10.0,2.0,0.0,0.0,2.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
 targaResourcesInc,5.018,70,9.0,2.0,1.0,1000.0,0.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 ironMountainIncorporatedDel,4.48,10,4.0,5.0,1.0,1000.0,0.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 publicStorage,4.428,30,3.0,5.0,1.0,1000.0,10.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
@@ -27,16 +35,19 @@ freeportMcmoranInc,4.232,60,4.0,5.0,1.0,1000.0,60.0,1.0,1.0,0.0,0.0,"range(0, 10
 apolloGlobalManagementInc,4.175,70,1.0,5.0,1.0,1000.0,0.0,2.0,1.0,1.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 ventasInc,4.069,90,13.0,2.0,1.0,1000.0,10.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 totalEnergies,4.05,70,6.0,5.0,1.0,1000.0,0.0,3.0,0.0,0.0,3.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
+lyondellbasellIndustriesNv,3.982,10,8.0,5.0,1.0,1000.0,0.0,2.0,2.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
 fdjUnited,3.88,60,1.0,5.0,1.0,1000.0,0.0,3.0,0.0,0.0,3.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 manitouBF,3.873,80,2.0,1.0,3.0,1000.0,0.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 bic,3.805,50,12.0,5.0,1.0,1000.0,0.0,2.0,0.0,0.0,2.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 dukeEnergyCorporationHoldin,3.804,100,4.0,5.0,1.0,1000.0,70.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 garminLtd,3.685,30,4.0,5.0,1.0,1000.0,20.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 lyondellbasellIndustries,3.654,10,8.0,5.0,1.0,1000.0,0.0,2.0,2.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
+erieIndemnityCompany,3.547,30,1.0,5.0,1.0,1000.0,20.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
 morganStanley,3.424,20,1.0,1.0,3.0,1000.0,20.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 bnpParibas,3.023,80,10.0,5.0,1.0,1000.0,20.0,16.0,1.0,1.0,14.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 theHartfordInsuranceGroupI,3.002,100,8.0,1.0,1.0,1000.0,40.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 bouygues,2.988,30,7.0,5.0,1.0,1000.0,0.0,5.0,4.0,1.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
+sterisPlcIreland,2.88,50,2.0,1.0,2.0,1000.0,10.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
 engie,2.772,80,12.0,5.0,1.0,1000.0,0.0,11.0,3.0,0.0,8.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 immobiliereDassault,2.725,80,1.0,1.0,4.0,1000.0,0.0,1.0,0.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 hcaHealthcareInc,2.672,40,3.0,1.0,3.0,1000.0,0.0,1.0,0.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
@@ -46,6 +57,7 @@ atTInc,2.51,70,1.0,5.0,1.0,1000.0,60.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","rang
 expandEnergyCorporation,2.491,30,13.0,5.0,1.0,1000.0,0.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 altarea,2.216,100,1.0,1.0,4.0,1000.0,0.0,3.0,1.0,1.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 BBbiotechAG,2.144,50,7.0,2.0,1.0,1000.0,0.0,3.0,2.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
+weyerhaeuserCompany,2.041,20,4.0,1.0,4.0,1000.0,10.0,3.0,2.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
 americanInternationalGroupI,1.993,10,10.0,2.0,1.0,1000.0,40.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 altria,1.977,20,1.0,1.0,4.0,1000.0,10.0,2.0,0.0,1.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 altriaGroupInc,1.974,20,1.0,1.0,4.0,1000.0,10.0,2.0,0.0,1.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
@@ -74,17 +86,20 @@ britishAmericanTobacco,0.314,100,2.0,1.0,3.0,1000.0,0.0,5.0,1.0,0.0,4.0,"range(0
 carrefour,0.287,20,5.0,1.0,3.0,1000.0,0.0,6.0,5.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 prudentialFinancialInc,0.228,100,2.0,1.0,3.0,1000.0,20.0,2.0,1.0,1.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 mAndG,0.196,20,6.0,1.0,3.0,1000.0,10.0,5.0,4.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
+seagateTechnologyHoldingsPlc,0.105,10,4.0,1.0,4.0,1000.0,0.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
 mcdonaldSCorporation,0.0,0,1.0,1.0,1.0,1000.0,0.0,0.0,0.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 microsoftCorporation,0.0,0,1.0,1.0,1.0,1000.0,0.0,0.0,0.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
-bakerHughesCompany,0.0,0,1.0,1.0,1.0,1000.0,0.0,0.0,0.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 dbaSempra,0.0,0,1.0,1.0,1.0,1000.0,0.0,0.0,0.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
+bakerHughesCompany,0.0,0,1.0,1.0,1.0,1000.0,0.0,0.0,0.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 cencoraInc,0.0,0,1.0,1.0,1.0,1000.0,0.0,0.0,0.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
+internationalPaperCompany,0.0,0,1.0,1.0,1.0,1000.0,0.0,0.0,0.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
 phoenixGroup,-0.04,20,3.0,1.0,1.0,1000.0,0.0,3.0,2.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 antinInfraPartners,-0.103,20,5.0,1.0,1.0,1000.0,0.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 boiron,-0.137,70,8.0,1.0,2.0,1000.0,10.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 deutscheTelekom,-0.149,10,3.0,1.0,2.0,1000.0,0.0,5.0,4.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-22
 cmeGroupInc,-0.187,10,3.0,1.0,2.0,1000.0,90.0,4.0,3.0,0.0,1.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 mondelezInternationalInc,-0.22,0,4.0,1.0,1.0,1000.0,0.0,1.0,1.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
+tkoGroupHoldingsInc,-0.22,0,12.0,1.0,1.0,1000.0,0.0,3.0,3.0,0.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-26
 occidentalPetroleumCorporatio,-1.219,0,1.0,1.0,1.0,1000.0,0.0,1.0,0.0,1.0,0.0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)",2025-06-24
 3MCompany,,,,,,,,,,,,,,,,,,2025-06-24
 abbottLaboratories,,,,,,,,,,,,,,,,,,2025-06-24
@@ -92,11 +107,15 @@ abbvieInc,,,,,,,,,,,,,,,,,,2025-06-24
 accenturePlc,,,,,,,,,,,,,,,,,,2025-06-24
 aflacIncorporated,,,,,,,,,,,,,,,,,,2025-06-24
 airProductsAndChemicalsInc,,,,,,,,,,,,,,,,,,2025-06-24
+alliantEnergyCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 allstateCorporationThe,,,,,,,,,,,,,,,,,,2025-06-24
 alphabetInc,,,,,,,,,,,,,,,,,,2025-06-24
+amcorPlc,,,,,,,,,,,,,,,,,,2025-06-26
+amerenCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 americanElectricPowerCompany,,,,,,,,,,,,,,,,,,2025-06-24
 americanExpressCompany,,,,,,,,,,,,,,,,,,2025-06-24
 americanTowerCorporationRei,,,,,,,,,,,,,,,,,,2025-06-24
+americanWaterWorksCompanyI,,,,,,,,,,,,,,,,,,2025-06-26
 ameripriseFinancialInc,,,,,,,,,,,,,,,,,,2025-06-24
 ametekInc,,,,,,,,,,,,,,,,,,2025-06-24
 amgenInc,,,,,,,,,,,,,,,,,,2025-06-24
@@ -105,24 +124,38 @@ analogDevicesInc,,,,,,,,,,,,,,,,,,2025-06-24
 aonPlc,,,,,,,,,,,,,,,,,,2025-06-24
 appleInc,,,,,,,,,,,,,,,,,,2025-06-24
 appliedMaterialsInc,,,,,,,,,,,,,,,,,,2025-06-24
+archerDanielsMidlandCompany,,,,,,,,,,,,,,,,,,2025-06-26
 arthurJGallagherCo,,,,,,,,,,,,,,,,,,2025-06-24
+atmosEnergyCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 automaticDataProcessingInc,,,,,,,,,,,,,,,,,,2025-06-24
+ballCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 bankOfAmericaCorporation,,,,,,,,,,,,,,,,,,2025-06-24
+baxterInternationalInc,,,,,,,,,,,,,,,,,,2025-06-26
 bectonDickinsonAndCompany,,,,,,,,,,,,,,,,,,2025-06-24
 blackrockInc,,,,,,,,,,,,,,,,,,2025-06-24
 bookingHoldingsIncCommonSt,,,,,,,,,,,,,,,,,,2025-06-24
 bristolMyersSquibbCompany,,,,,,,,,,,,,,,,,,2025-06-24
 broadcomInc,,,,,,,,,,,,,,,,,,2025-06-24
+broadridgeFinancialSolutions,,,,,,,,,,,,,,,,,,2025-06-26
 brownBrownInc,,,,,,,,,,,,,,,,,,2025-06-24
 capitalOneFinancialCorporati,,,,,,,,,,,,,,,,,,2025-06-24
 carrierGlobalCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 caterpillarInc,,,,,,,,,,,,,,,,,,2025-06-24
+cboeGlobalMarketsInc,,,,,,,,,,,,,,,,,,2025-06-26
+cdwCorporation,,,,,,,,,,,,,,,,,,2025-06-26
+centerpointEnergyIncHoldin,,,,,,,,,,,,,,,,,,2025-06-26
+cfIndustriesHoldingsInc,,,,,,,,,,,,,,,,,,2025-06-26
 chevron,,,,,,,,,,,,,,,,,,2025-06-22
 chevronCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 chubbLimited,,,,,,,,,,,,,,,,,,2025-06-24
+churchDwightCompanyInc,,,,,,,,,,,,,,,,,,2025-06-26
+cincinnatiFinancialCorporatio,,,,,,,,,,,,,,,,,,2025-06-26
 cintasCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 ciscoSystemsInc,,,,,,,,,,,,,,,,,,2025-06-24
 citigroupInc,,,,,,,,,,,,,,,,,,2025-06-24
+citizensFinancialGroupInc,,,,,,,,,,,,,,,,,,2025-06-26
+cloroxCompanyThe,,,,,,,,,,,,,,,,,,2025-06-26
+cmsEnergyCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 cocaColaCompanyThe,,,,,,,,,,,,,,,,,,2025-06-24
 cognizantTechnologySolutions,,,,,,,,,,,,,,,,,,2025-06-24
 colgatePalmoliveCompany,,,,,,,,,,,,,,,,,,2025-06-24
@@ -133,21 +166,30 @@ constellationBrandsInc,,,,,,,,,,,,,,,,,,2025-06-24
 constellationEnergyCorporatio,,,,,,,,,,,,,,,,,,2025-06-24
 corningIncorporated,,,,,,,,,,,,,,,,,,2025-06-24
 cortevaInc,,,,,,,,,,,,,,,,,,2025-06-24
+coterraEnergyInc,,,,,,,,,,,,,,,,,,2025-06-26
 crownCastleInc,,,,,,,,,,,,,,,,,,2025-06-24
 csxCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 cumminsInc,,,,,,,,,,,,,,,,,,2025-06-24
 cvsHealthCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 danaherCorporation,,,,,,,,,,,,,,,,,,2025-06-24
+dardenRestaurantsInc,,,,,,,,,,,,,,,,,,2025-06-26
 deereCompany,,,,,,,,,,,,,,,,,,2025-06-24
 dellTechnologiesInc,,,,,,,,,,,,,,,,,,2025-06-24
 deltaAirLinesInc,,,,,,,,,,,,,,,,,,2025-06-24
+devonEnergyCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 diamondbackEnergyInc,,,,,,,,,,,,,,,,,,2025-06-24
 digitalRealtyTrustInc,,,,,,,,,,,,,,,,,,2025-06-24
+dollarGeneralCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 dominionEnergyInc,,,,,,,,,,,,,,,,,,2025-06-24
+doverCorporation,,,,,,,,,,,,,,,,,,2025-06-26
+dowInc,,,,,,,,,,,,,,,,,,2025-06-26
 dRHortonInc,,,,,,,,,,,,,,,,,,2025-06-24
+dteEnergyCompany,,,,,,,,,,,,,,,,,,2025-06-26
+dupontDeNemoursInc,,,,,,,,,,,,,,,,,,2025-06-26
 eatonCorporationPlc,,,,,,,,,,,,,,,,,,2025-06-24
 ebayInc,,,,,,,,,,,,,,,,,,2025-06-24
 ecolabInc,,,,,,,,,,,,,,,,,,2025-06-24
+edisonInternational,,,,,,,,,,,,,,,,,,2025-06-26
 electronicArtsInc,,,,,,,,,,,,,,,,,,2025-06-24
 elevanceHealthInc,,,,,,,,,,,,,,,,,,2025-06-24
 eliLillyAndCompany,,,,,,,,,,,,,,,,,,2025-06-24
@@ -156,46 +198,75 @@ entergyCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 eogResourcesInc,,,,,,,,,,,,,,,,,,2025-06-24
 eqtCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 equifaxInc,,,,,,,,,,,,,,,,,,2025-06-24
+essexPropertyTrustInc,,,,,,,,,,,,,,,,,,2025-06-26
+esteeLauderCompaniesIncT,,,,,,,,,,,,,,,,,,2025-06-26
+everestGroupLtd,,,,,,,,,,,,,,,,,,2025-06-26
+evergyInc,,,,,,,,,,,,,,,,,,2025-06-26
+eversourceEnergyDBA,,,,,,,,,,,,,,,,,,2025-06-26
 exelonCorporation,,,,,,,,,,,,,,,,,,2025-06-24
+expeditorsInternationalOfWas,,,,,,,,,,,,,,,,,,2025-06-26
 exxonMobilCorporation,,,,,,,,,,,,,,,,,,2025-06-24
+factsetResearchSystemsInc,,,,,,,,,,,,,,,,,,2025-06-26
 fastenalCompany,,,,,,,,,,,,,,,,,,2025-06-24
 fedexCorporation,,,,,,,,,,,,,,,,,,2025-06-24
+fifthThirdBancorp,,,,,,,,,,,,,,,,,,2025-06-26
+firstenergyCorp,,,,,,,,,,,,,,,,,,2025-06-26
+fortiveCorporation,,,,,,,,,,,,,,,,,,2025-06-26
+foxCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 geAerospace,,,,,,,,,,,,,,,,,,2025-06-24
 geHealthcareTechnologiesInc,,,,,,,,,,,,,,,,,,2025-06-24
 generalDynamicsCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 generalMillsInc,,,,,,,,,,,,,,,,,,2025-06-24
 generalMotorsCompany,,,,,,,,,,,,,,,,,,2025-06-24
+genuinePartsCompany,,,,,,,,,,,,,,,,,,2025-06-26
 geVernovaInc,,,,,,,,,,,,,,,,,,2025-06-24
 gileadSciencesInc,,,,,,,,,,,,,,,,,,2025-06-24
+globalPaymentsInc,,,,,,,,,,,,,,,,,,2025-06-26
 goldmanSachsGroupIncThe,,,,,,,,,,,,,,,,,,2025-06-24
+halliburtonCompany,,,,,,,,,,,,,,,,,,2025-06-26
 hessCorporation,,,,,,,,,,,,,,,,,,2025-06-24
+hewlettPackardEnterpriseComp,,,,,,,,,,,,,,,,,,2025-06-26
 hiltonWorldwideHoldingsInc,,,,,,,,,,,,,,,,,,2025-06-24
 homeDepotIncThe,,,,,,,,,,,,,,,,,,2025-06-24
 honeywellInternationalInc,,,,,,,,,,,,,,,,,,2025-06-24
+hormelFoodsCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 howmetAerospaceInc,,,,,,,,,,,,,,,,,,2025-06-24
+hpInc,,,,,,,,,,,,,,,,,,2025-06-26
+hubbellInc,,,,,,,,,,,,,,,,,,2025-06-26
 humanaInc,,,,,,,,,,,,,,,,,,2025-06-24
+huntingtonBancsharesIncorpora,,,,,,,,,,,,,,,,,,2025-06-26
 illinoisToolWorksInc,,,,,,,,,,,,,,,,,,2025-06-24
 ingersollRandInc,,,,,,,,,,,,,,,,,,2025-06-24
 intercontinentalExchangeInc,,,,,,,,,,,,,,,,,,2025-06-24
 internationalBusinessMachines,,,,,,,,,,,,,,,,,,2025-06-24
+internationalFlavorsFragran,,,,,,,,,,,,,,,,,,2025-06-26
 intuitInc,,,,,,,,,,,,,,,,,,2025-06-24
+invitationHomesInc,,,,,,,,,,,,,,,,,,2025-06-26
+jabilInc,,,,,,,,,,,,,,,,,,2025-06-26
+jacobsSolutionsInc,,,,,,,,,,,,,,,,,,2025-06-26
 johnsonJohnson,,,,,,,,,,,,,,,,,,2025-06-24
 jpMorganChaseCo,,,,,,,,,,,,,,,,,,2025-06-24
+kellanova,,,,,,,,,,,,,,,,,,2025-06-26
 kenvueInc,,,,,,,,,,,,,,,,,,2025-06-24
+keycorp,,,,,,,,,,,,,,,,,,2025-06-26
 kimberlyClarkCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 kinderMorganInc,,,,,,,,,,,,,,,,,,2025-06-24
 krogerCompanyThe,,,,,,,,,,,,,,,,,,2025-06-24
 l3HarrisTechnologiesInc,,,,,,,,,,,,,,,,,,2025-06-24
+labcorpHoldingsInc,,,,,,,,,,,,,,,,,,2025-06-26
 lamResearchCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 lennarCorporation,,,,,,,,,,,,,,,,,,2025-06-24
+lennoxInternationalInc,,,,,,,,,,,,,,,,,,2025-06-26
 lindePlc,,,,,,,,,,,,,,,,,,2025-06-24
 lockheedMartinCorporation,,,,,,,,,,,,,,,,,,2025-06-24
+loewsCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 loweSCompaniesInc,,,,,,,,,,,,,,,,,,2025-06-24
 marathonPetroleumCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 marriottInternational,,,,,,,,,,,,,,,,,,2025-06-24
 marshMclennanCompaniesInc,,,,,,,,,,,,,,,,,,2025-06-24
 martinMariettaMaterialsInc,,,,,,,,,,,,,,,,,,2025-06-24
 mastercardIncorporated,,,,,,,,,,,,,,,,,,2025-06-24
+mccormickCompanyIncorporat,,,,,,,,,,,,,,,,,,2025-06-26
 mckessonCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 medtronicPlc,,,,,,,,,,,,,,,,,,2025-06-24
 merckCompanyInc,,,,,,,,,,,,,,,,,,2025-06-24
@@ -203,15 +274,20 @@ metaPlatformsInc,,,,,,,,,,,,,,,,,,2025-06-24
 metlifeInc,,,,,,,,,,,,,,,,,,2025-06-24
 microchipTechnologyIncorporat,,,,,,,,,,,,,,,,,,2025-06-24
 micronTechnologyInc,,,,,,,,,,,,,,,,,,2025-06-24
+midAmericaApartmentCommuniti,,,,,,,,,,,,,,,,,,2025-06-26
 moodySCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 motorolaSolutionsInc,,,,,,,,,,,,,,,,,,2025-06-24
 msciInc,,,,,,,,,,,,,,,,,,2025-06-24
 mTBankCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 nasdaqInc,,,,,,,,,,,,,,,,,,2025-06-24
+netappInc,,,,,,,,,,,,,,,,,,2025-06-26
 newmontCorporation,,,,,,,,,,,,,,,,,,2025-06-24
+newsCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 nexteraEnergyInc,,,,,,,,,,,,,,,,,,2025-06-24
 nikeInc,,,,,,,,,,,,,,,,,,2025-06-24
+nisourceInc,,,,,,,,,,,,,,,,,,2025-06-26
 norfolkSouthernCorporation,,,,,,,,,,,,,,,,,,2025-06-24
+northernTrustCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 northropGrummanCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 nrgEnergyInc,,,,,,,,,,,,,,,,,,2025-06-24
 nucorCorporation,,,,,,,,,,,,,,,,,,2025-06-24
@@ -221,42 +297,59 @@ oldDominionFreightLineInc,,,,,,,,,,,,,,,,,,2025-06-24
 oracleCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 otisWorldwideCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 pacificGasElectricCo,,,,,,,,,,,,,,,,,,2025-06-24
+packagingCorporationOfAmeric,,,,,,,,,,,,,,,,,,2025-06-26
 parkerHannifinCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 paychexInc,,,,,,,,,,,,,,,,,,2025-06-24
+pentairPlc,,,,,,,,,,,,,,,,,,2025-06-26
 pepsicoInc,,,,,,,,,,,,,,,,,,2025-06-24
 pfizer,,,,,,,,,,,,,,,,,,2025-06-22
 pfizerInc,,,,,,,,,,,,,,,,,,2025-06-24
 philipMorrisInternationalInc,,,,,,,,,,,,,,,,,,2025-06-24
 phillips66,,,,,,,,,,,,,,,,,,2025-06-24
 pncFinancialServicesGroupI,,,,,,,,,,,,,,,,,,2025-06-24
+ppgIndustriesInc,,,,,,,,,,,,,,,,,,2025-06-26
+pplCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 procterGambleCompanyThe,,,,,,,,,,,,,,,,,,2025-06-24
 prologisInc,,,,,,,,,,,,,,,,,,2025-06-24
 publicServiceEnterpriseGroup,,,,,,,,,,,,,,,,,,2025-06-24
+pultegroupInc,,,,,,,,,,,,,,,,,,2025-06-26
 qualcommIncorporated,,,,,,,,,,,,,,,,,,2025-06-24
 quantaServicesInc,,,,,,,,,,,,,,,,,,2025-06-24
+questDiagnosticsIncorporated,,,,,,,,,,,,,,,,,,2025-06-26
+ralphLaurenCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 raymondJamesFinancialInc,,,,,,,,,,,,,,,,,,2025-06-24
 realtyIncomeCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 regeneronPharmaceuticalsInc,,,,,,,,,,,,,,,,,,2025-06-24
+regionsFinancialCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 republicServicesInc,,,,,,,,,,,,,,,,,,2025-06-24
 resmedInc,,,,,,,,,,,,,,,,,,2025-06-24
 rockwellAutomationInc,,,,,,,,,,,,,,,,,,2025-06-24
+rollinsInc,,,,,,,,,,,,,,,,,,2025-06-26
 roperTechnologiesInc,,,,,,,,,,,,,,,,,,2025-06-24
 rossStoresInc,,,,,,,,,,,,,,,,,,2025-06-24
 royalCaribbeanCruisesLtd,,,,,,,,,,,,,,,,,,2025-06-24
 rtxCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 salesforceInc,,,,,,,,,,,,,,,,,,2025-06-24
+sbaCommunicationsCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 schlumbergerNV,,,,,,,,,,,,,,,,,,2025-06-24
 sherwinWilliamsCompanyThe,,,,,,,,,,,,,,,,,,2025-06-24
 simonPropertyGroupInc,,,,,,,,,,,,,,,,,,2025-06-24
+smurfitWestrockPlc,,,,,,,,,,,,,,,,,,2025-06-26
+snapOnIncorporated,,,,,,,,,,,,,,,,,,2025-06-26
 southernCompanyThe,,,,,,,,,,,,,,,,,,2025-06-24
+southwestAirlinesCompany,,,,,,,,,,,,,,,,,,2025-06-26
 starbucksCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 stateStreetCorporation,,,,,,,,,,,,,,,,,,2025-06-24
+steelDynamicsInc,,,,,,,,,,,,,,,,,,2025-06-26
 strykerCorporation,,,,,,,,,,,,,,,,,,2025-06-24
+synchronyFinancial,,,,,,,,,,,,,,,,,,2025-06-26
 syscoCorporation,,,,,,,,,,,,,,,,,,2025-06-24
+tapestryInc,,,,,,,,,,,,,,,,,,2025-06-26
 target,,,,,,,,,,,,,,,,,,2025-06-22
 targetCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 teConnectivityPlc,,,,,,,,,,,,,,,,,,2025-06-24
 texasInstrumentsIncorporated,,,,,,,,,,,,,,,,,,2025-06-24
+texasPacificLandCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 theBankOfNewYorkMellonCor,,,,,,,,,,,,,,,,,,2025-06-24
 theCignaGroup,,,,,,,,,,,,,,,,,,2025-06-24
 theHersheyCompany,,,,,,,,,,,,,,,,,,2025-06-24
@@ -266,12 +359,15 @@ theTravelersCompaniesInc,,,,,,,,,,,,,,,,,,2025-06-24
 tjxCompaniesIncThe,,,,,,,,,,,,,,,,,,2025-06-24
 tractorSupplyCompany,,,,,,,,,,,,,,,,,,2025-06-24
 traneTechnologiesPlc,,,,,,,,,,,,,,,,,,2025-06-24
+tRowePriceGroupInc,,,,,,,,,,,,,,,,,,2025-06-26
+tysonFoodsInc,,,,,,,,,,,,,,,,,,2025-06-26
 unionPacificCorporation,,,,,,,,,,,,,,,,,,2025-06-24
 unitedhealthGroupIncorporated,,,,,,,,,,,,,,,,,,2025-06-24
 unitedParcelServiceInc,,,,,,,,,,,,,,,,,,2025-06-24
 unitedRentalsInc,,,,,,,,,,,,,,,,,,2025-06-24
 uSBancorp,,,,,,,,,,,,,,,,,,2025-06-24
 valeroEnergyCorporation,,,,,,,,,,,,,,,,,,2025-06-24
+veraltoCorp,,,,,,,,,,,,,,,,,,2025-06-26
 veriskAnalyticsInc,,,,,,,,,,,,,,,,,,2025-06-24
 verizon,,,,,,,,,,,,,,,,,,2025-06-22
 verizonCommunicationsInc,,,,,,,,,,,,,,,,,,2025-06-24
@@ -284,10 +380,14 @@ wasteManagementInc,,,,,,,,,,,,,,,,,,2025-06-24
 wecEnergyGroupInc,,,,,,,,,,,,,,,,,,2025-06-24
 wellsFargoCompany,,,,,,,,,,,,,,,,,,2025-06-24
 welltowerInc,,,,,,,,,,,,,,,,,,2025-06-24
+westernDigitalCorporation,,,,,,,,,,,,,,,,,,2025-06-26
 westinghouseAirBrakeTechnolo,,,,,,,,,,,,,,,,,,2025-06-24
+westPharmaceuticalServicesI,,,,,,,,,,,,,,,,,,2025-06-26
+williamsSonomaInc,,,,,,,,,,,,,,,,,,2025-06-26
 willisTowersWatsonPublicLim,,,,,,,,,,,,,,,,,,2025-06-24
 wWGraingerInc,,,,,,,,,,,,,,,,,,2025-06-24
 xcelEnergyInc,,,,,,,,,,,,,,,,,,2025-06-24
 xylemInc,,,,,,,,,,,,,,,,,,2025-06-24
 yumBrandsInc,,,,,,,,,,,,,,,,,,2025-06-24
+zimmerBiometHoldingsInc,,,,,,,,,,,,,,,,,,2025-06-26
 zoetisInc,,,,,,,,,,,,,,,,,,2025-06-24
