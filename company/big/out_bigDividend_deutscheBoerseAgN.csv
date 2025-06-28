@@ -1,3 +1,4 @@
 Action,Best profit,Profit cumulee,TP optimal,SL optimal,levier optimal,dureeMax optimal,montantInvestit optimal,perfNormalisee optimal,NB trades,NB TP reached,NB SL reached,NB Duree max reached,TP values,SL values,levier values,Duree max values,montantInvestit values,perfNormalisee values
 2025-06-27-21-53-35,-0.176%,,100,7,1,4,1000,30,9,2,0,7,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)"
 2025-06-28-18-18-01,-0.176%,-15.84€,100,7,1,4,1000,30,9,2,0,7,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)"
+2025-06-28-23-02-45,-0.22%,-13.2€,0,6,1,1,1000,0,6,6,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)"
