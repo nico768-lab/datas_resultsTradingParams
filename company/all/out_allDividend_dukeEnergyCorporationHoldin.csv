@@ -1,2 +1,4 @@
-Action,Best profit,TP optimal,SL optimal,levier optimal,dureeMax optimal,montantInvestit optimal,perfNormalisee optimal,NB trades,NB TP reached,NB SL reached,NB Duree max reached,TP values,SL values,levier values,Duree max values,montantInvestit values,perfNormalisee values
-2025-06-24-22-05-37,-0.22%,0,3,1,1,1000,30,71,71,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)"
+Action,Best profit,Profit cumulee,TP optimal,SL optimal,levier optimal,dureeMax optimal,montantInvestit optimal,perfNormalisee optimal,NB trades,NB TP reached,NB SL reached,NB Duree max reached,TP values,SL values,levier values,Duree max values,montantInvestit values,perfNormalisee values
+2025-06-24-22-05-37,-0.22%,,0,3,1,1,1000,30,71,71,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)"
+2025-06-28-18-01-07,-0.22%,-156.19€,0,3,1,1,1000,30,71,71,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)"
+2025-06-28-22-38-38,-0.22%,-92.39€,0,3,1,1,1000,0,42,42,0,0,"range(0, 101, 10)","range(1, 15)","[1, 2, 5]","range(1, 5)","range(1000, 1001, 500)","range(0, 100, 10)"
