@@ -1,2 +1,2 @@
-nb_Company,Profit,Trades,TP_Reached,SL_Reached,Duree_Max_Reached,Common_TP,Avg_SL,Avg_Levier,Avg_Duree,Avg_Investi,Avg_Perf_Normalisee
-313,0.21,7723.0,6789.0,90.0,844.0,88.56,5.71,1.81,2.7,1000.0,12.91
+nb_Company,Profit moyen,Profit cumulee,Trades,TP_Reached,SL_Reached,Duree_Max_Reached,Common_TP,Avg_SL,Avg_Levier,Avg_Duree,Avg_Investi,Avg_Perf_Normalisee
+313,0.21%,16314.29€,7723.0,6789.0,90.0,844.0,88.56,6.09,1.29,3.07,1000.0,14.93
